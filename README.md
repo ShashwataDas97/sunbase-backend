@@ -15,28 +15,28 @@ In my case I use http://localhost:8080/home then api end point
    - Description: Create a new customer in the system.
  
 2. **To Update a Customer**
-   - Path: `/api/customers/{customerId}`
    - Method: PUT
+   - Path: `/api/customers/{customerId}`
    - Description: Update an existing customer's information.
  
 3. **To Get a List of Customers**
-   - Path: `/api/customers`
    - Method: GET
+   - Path: `/api/customers`
    - Description: Retrieve a paginated, sorted, and searchable list of customers.
  
 4. **To Get a Single Customer Based on ID**
-   - Path: `/api/customers/{customerId}`
    - Method: GET
+   - Path: `/api/customers/{customerId}`
    - Description: Retrieve details of a specific customer based on their ID.
  
 5. **To Delete a Customer**
-   - Path: `/api/customers/{customerId}`
    - Method: DELETE
+   - Path: `/api/customers/{customerId}`
    - Description: Delete a customer from the system.
   
 6. **To Serach a Cutomer by Name, Email, State etc**
-   - Path: `/api/customers/search`
    - Method: GET
+   - Path: `/api/customers/search`
    - Description: Serach a Cutomer by Name, Email, State, City.
   
 1st Screen ( **Login Page**)
