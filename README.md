@@ -40,7 +40,8 @@ In my case I use http://localhost:8080/home then api end point
    - Description: Serach a Cutomer by Name, Email, State, City.
   
 1st Screen ( **Login Page**)
-![image](https://github.com/ayushraj12009/sunbaseassignmentbackend/assets/51042913/a3bc167d-5861-43b7-a8c6-cdd8738e2b6b)
+![login](https://github.com/ShashwataDas97/sunbase-backend/assets/142168847/91fdf99d-eed3-417d-a823-8c8033095452)
+
  
 2nd Screen (**Customer Details with edit and delete button**)
 ![image](https://github.com/ayushraj12009/sunbaseassignmentbackend/assets/51042913/3f526fb6-8af8-4989-a79d-2092f5798e8f)
