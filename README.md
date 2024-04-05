@@ -63,7 +63,7 @@ In the second phase, additional functionality has been added :
  
 1. Clone the repository.
 2. Set up the backend environment.
-3. Create a database named "sunbase".
+3. Create a database named "sunbaseDB".
 4. Run the backend server.
 5. Clone the fronted code.
 6. Run the frontend code.
