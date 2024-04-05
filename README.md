@@ -2,42 +2,42 @@
  
 ## Assignment Project 
  
-This repository contains the codebase for a backend API that manages customer information. The assignment involves implementing various CRUD operations and later extending the functionality in the second phase to synchronize customer data from a remote API.
+This repository houses the backend API codebase for customer information management, focusing on CRUD operations. Phase two will enhance functionality by integrating synchronization with a remote API to ensure up-to-date customer data.
  
 ### Assignment Completion
  
 The following API endpoints have been implemented in the initial phase:
-In my case i use http://localhost:8080/home then api end point
+In my case I use http://localhost:8080/home then api end point
  
-1. **Create a Customer**
-   - Path: `/api/customers`
+1. **To Create a New Customer**
    - Method: POST
+   - Path: `/api/customers`
    - Description: Create a new customer in the system.
  
-2. **Update a Customer**
+2. **To Update a Customer**
    - Path: `/api/customers/{customerId}`
    - Method: PUT
    - Description: Update an existing customer's information.
  
-3. **Get a List of Customers**
+3. **To Get a List of Customers**
    - Path: `/api/customers`
    - Method: GET
    - Description: Retrieve a paginated, sorted, and searchable list of customers.
  
-4. **Get a Single Customer Based on ID**
+4. **To Get a Single Customer Based on ID**
    - Path: `/api/customers/{customerId}`
    - Method: GET
    - Description: Retrieve details of a specific customer based on their ID.
  
-5. **Delete a Customer**
+5. **To Delete a Customer**
    - Path: `/api/customers/{customerId}`
    - Method: DELETE
    - Description: Delete a customer from the system.
   
-6. **Serach a Cutomer by Name, Email, State etc**
+6. **To Serach a Cutomer by Name, Email, State etc**
    - Path: `/api/customers/search`
    - Method: GET
-   - Description: Serach a Cutomer by Name, Email, State, City
+   - Description: Serach a Cutomer by Name, Email, State, City.
   
 1st Screen ( **Login Page**)
 ![image](https://github.com/ayushraj12009/sunbaseassignmentbackend/assets/51042913/a3bc167d-5861-43b7-a8c6-cdd8738e2b6b)
