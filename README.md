@@ -54,7 +54,7 @@ In my case I use http://localhost:8080/home then api end point
 In the second phase, additional functionality has been added :
  
 - **Synchronize Customer List**
-  - Description: On the customer list screen, a "Sync" button has been incorporated. When activated, it initiates an API call to a remote server, fetching the latest customer data. These retrieved entries are subsequently stored in the local database. In case of existing customers, their information undergoes updates instead of creating duplicate records. To execute this feature, you can either download the frontend repository or utilize Postman with the provided endpoint (**for postman**: http://localhost:8080/home/api/customers/search/sunbase)
+  - Description: On the customer list screen, a "Sync" button has been incorporated. When activated, it initiates an API call to a remote server, fetching the latest customer data. These retrieved entries are subsequently stored in the local database. In case of existing customers, their information undergoes updates instead of creating duplicate records. To execute this feature, you can either download the frontend repository or utilize Postman with the provided endpoint (**for postman**:http://localhost:8080/home/api/customers/search/sunbase)
  
 - **Frontend Code Link**
   - https://github.com/ayushraj12009/sunBaseFrontend.git
