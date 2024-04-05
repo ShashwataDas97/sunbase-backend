@@ -46,9 +46,8 @@ In my case I use http://localhost:8080/home then api end point
 ![list-page](https://github.com/ShashwataDas97/sunbase-backend/assets/142168847/73209080-82ef-45f1-845a-402ebf173b51)
  
 3rd Screen (**Adding a customer**)
-![image](https://github.com/ayushraj12009/sunbaseassignmentbackend/assets/51042913/c83677f6-9d2d-4c5b-9165-fd3f1c592c50)
- 
- 
+![add](https://github.com/ShashwataDas97/sunbase-backend/assets/142168847/2aec3651-396a-478a-bddd-0293ed8c291d)
+
 ### Second Phase
  
 In the second phase, additional functionality has been added :
